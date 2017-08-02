@@ -1,0 +1,7 @@
+ano = leia_inteiro
+
+se ano mod 400 == 0 ou ano mod 4 == 0 e ano mod 10 <> 0 então
+  escreva 1
+senão
+  escreva 0
+fim
